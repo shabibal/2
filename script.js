@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // !!! الرابط الجديد الذي قدمته تم إضافته هنا !!!
+    // !!! الرابط الصحيح تم إضافته هنا !!!
     const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxM-MEsCGs6tMAHefwNj66WHEef85iKsV62Twm0i4-6KnOSpKxbaezN6M3xmDPrj1gAog/exec';
     const ADMIN_EMAIL = "msdfrrt@gmail.com";
 
